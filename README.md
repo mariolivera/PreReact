@@ -1,0 +1,2 @@
+# PreReact
+preparação para react.
